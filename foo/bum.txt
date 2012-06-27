@@ -1,2 +1,2 @@
-1. roses are red
-2. violets are blue
+1. Roses are red.
+2. Violets are blue.
