@@ -1,5 +1,5 @@
-1. Roses are red...
-2. Violets are blue...
+1. Roses are red.
+2. Violets are blue.
 3. something something something
 4. more more more
 
