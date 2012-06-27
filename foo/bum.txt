@@ -5,5 +5,5 @@
 
 New Section
 
-1. quux
+1. quux!
 2. xyzzy!
