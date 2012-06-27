@@ -8,3 +8,4 @@ New Section
 1. quux!
 2. xyzzy!
 3. baz
+4. bar
