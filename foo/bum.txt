@@ -2,3 +2,8 @@
 2. Violets are blue...
 3. something something something
 4. more more more
+
+New Section
+
+1. quux
+2. xyzzy
